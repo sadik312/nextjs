@@ -11,3 +11,5 @@
 - Performance - how to optimise app for end-users
 - Scalability - how your app adapts as team, data, traffic grows
 - Dev Experience - team's experience building and maintaining app
+
+Tutorial Followed: https://nextjs.org/learn-pages-router/basics/create-nextjs-app 
